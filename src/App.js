@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello amplify
+          Hello Techjays
         </a>
       </header>
     </div>
